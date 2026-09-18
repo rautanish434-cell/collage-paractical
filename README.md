@@ -10,3 +10,5 @@ This repository contains my collage paratical programs.
 - Java Programming
 <br>
 - PHP
+<br>
+- Java Script
